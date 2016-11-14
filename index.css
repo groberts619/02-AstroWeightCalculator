@@ -1,0 +1,51 @@
+body {
+	background: url("img/Solar-System.jpg") 
+}
+
+h1 {
+	background: -webkit-linear-gradient(gray, lightgray);
+ 	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+	font-size: 40px;
+	font-family: 'Audiowide', cursive;
+	text-align: center;
+}
+
+p {
+	color: white;
+	font-size: 20px;
+	font-family: 'Share Tech Mono', monospace;
+}
+
+button {
+	background-color: black;
+	color: white;
+	width: 52%;
+	font-family: 'Share Tech Mono', monospace;
+	display: block;
+    margin: 10px auto 0;
+}
+
+button:hover {
+	background-color: silver;
+	font-weight: bold;
+	color: black;
+}
+select {
+	background-color: black;
+	color: white;
+	width: 29%;
+	font-family: 'Share Tech Mono', monospace;
+}
+
+input {
+	background-color: black;
+	color: white;
+	font-family: 'Share Tech Mono', monospace;
+	width: 67%;
+}
+
+label {
+	color: white;
+}
+
